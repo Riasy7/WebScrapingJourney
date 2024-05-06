@@ -1,3 +1,17 @@
+"""
+WebScrape.py
+
+This script is used to scrape data from the "Hot Deals" section of the RedFlagDeals forum (https://forums.redflagdeals.com/hot-deals-f9/). 
+
+It uses the BeautifulSoup and requests libraries to fetch and parse the HTML of the website. 
+
+The data scraped includes the store, item, votes, username, timestamp, category, replies, and views for each deal listed on the website. 
+
+This data is then used for various purposes such as displaying the latest deals, analyzing deals per category, finding the top stores, and logging deal data.
+
+Author: Ahmad
+GitHub: https://github.com/Riasy7/
+"""
 import requests
 from bs4 import BeautifulSoup
 
