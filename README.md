@@ -14,6 +14,11 @@ This data is then used for various purposes such as displaying the latest deals,
 
 There are two files, the code and the deals file to showcase writing and editing the mock up database for display purposes
 
+## 📦 Technologies
+
+  - `Python`
+  - `Beautiful Soup`
+
 ## ✅ Main Function
 
 The main menu is implemented with a while loop:
