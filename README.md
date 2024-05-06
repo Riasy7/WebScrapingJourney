@@ -1,5 +1,5 @@
 # 🕸 Web Scraping Journey
-# Author: Ahmad
+Author: Ahmad
 Github: https://github.com/Riasy7/
 
 This read me just gives a general understanding of my program, throughout my program I place the necessary comments wherever I saw fit. 
