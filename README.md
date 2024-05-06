@@ -45,6 +45,7 @@ This option logs the deal data for a selected category into a text file. This is
 ## 📈 Data Structure
 
 The data scraped from the website is stored in a dictionary for easy access and manipulation. Each deal is a dictionary with keys representing different aspects of the deal (store, item, votes, etc.). This structure makes it easy to analyze and display the data.
+![Data Structures](https://miro.medium.com/v2/resize:fit:800/1*xGgaEhVE5dMD-R8krQG4PQ.gif)
 
 ## Constants
 
@@ -83,5 +84,6 @@ If we look at this from a larger scale, and this was a application hosted online
   8. **Data Storage**: If the amount of data becomes large, storing it in a dictionary might not be the most efficient solution. We could look into using a database to store the data, which would also make it easier to query and analyze the data.
 
 At the end of the day this is a really simple implementation, but it gives us an idea on how a large scale application would consider doing things... Which is very interesting!
+![Improvements](https://cdn.dribbble.com/users/962944/screenshots/14138307/media/ca3377660c3d2053c9d91ac175871429.gif)
 
 ## Thank you for your time :)
