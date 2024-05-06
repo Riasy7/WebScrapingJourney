@@ -85,5 +85,7 @@ If we look at this from a larger scale, and this was a application hosted online
 
 At the end of the day this is a really simple implementation, but it gives us an idea on how a large scale application would consider doing things... Which is very interesting!
 <img src="https://cdn.dribbble.com/users/962944/screenshots/14138307/media/ca3377660c3d2053c9d91ac175871429.gif" width="500" height="375">
+<br>
+
 
 ## Thank you for your time :)
